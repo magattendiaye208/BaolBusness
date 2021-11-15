@@ -1,0 +1,85 @@
+.cadre{
+	background-color: #FFFFFF;
+	width:90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px; 
+	padding-bottom: 0px;
+}
+.nomdusite{
+	width: 100%;
+	background-color: #52bad5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	clear:left;
+	border-bottom: 2px solid #2C9AB7;
+}
+.menudenavigation{
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #DF7401;
+clear: left;
+}
+.cadre .menudenavigation ul{
+	margin-top: 0%;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	width: 100%;
+}
+.menudenavigation ul li{
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family:"Source Sans Pro";
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-left: auto;
+	text-align: center;
+	width: 16%;
+	transition: all 0.3s linear;
+}
+.menudenavigation ul li:hover{
+	color: #000000;
+	cursor: pointer;
+}
+.footer{
+	background-color: #717070;
+}
+.titre{
+	font-weight: bold;
+	font-style: normal;
+	font-family:"Source Sans Pro";
+	text-align:center;
+	color: #0fdefacb;
+	letter-spacing: 2px;
+}
+.copyright{
+	text-align: center;
+	background-color: #717070;
+	color: #0fdefacb;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	font-family:"Source Sans Pro";
+}
+body{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px
+	margin-left: 0px
+	
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
